@@ -101,8 +101,3 @@ PUSHER_APP_CLUSTER=ap1
 
 ### Unavailable Features
 Unfortunately, this app supported text-based message only. You can neither send any attachment (e.g. file, image, video, etc.) nor make a voice/video call.
-
-## License
-MIT License
-
-Copyright &copy; 2021 [Iqbal Taufiqurrahman](https://github.com/iqbaltaufiq)
